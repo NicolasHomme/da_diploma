@@ -1,0 +1,7 @@
+git init
+git add README.md
+git commit -m "readme"
+git add * 
+git commit -m "data uploaded and first model run made"
+git remote add origin https://github.com/NicolasHomme/da_diploma.git
+git push -u origin master
